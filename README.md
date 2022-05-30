@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-[Google Search Tips](https://medium.com/@lkouninef/comment-devenir-un-pro-de-la-recherche-google-b1584b93631f)
+[Google Search Tips (french)](https://medium.com/@lkouninef/comment-devenir-un-pro-de-la-recherche-google-b1584b93631f)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
