@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lkouninef@gmail.com**
 
-- ⚡ Fun fact **I've created some boardgames (only two of them are actually playable AND enjoyable). I can be referred to as a jack-of-all-trades, but above all, I enjoy reading and cooking.**
+- ⚡ Fun fact **I've created some boardgames (only two of them are actually playable AND enjoyable). I can be referred to as a jack-of-all-trades, but, besides coding, I enjoy reading and cooking.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
