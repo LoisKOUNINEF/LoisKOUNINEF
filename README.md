@@ -2,16 +2,16 @@
 
 <h3>I build full-stack applications with explicit logic, controlled complexity, and infrastructure I run myself.</h3>
 
-- 🪶 **Mini-framework frontend** (no runtime dependencies, explicit event-driven reactivity)
-- ⚙️ **Backend services in Node.js / Go**
+- 🪶 **Personal mini-framework frontend** (no runtime dependencies, explicit event-driven reactivity)
+- ⚙️ **Backend services** in Node.js / Go
 - 🗄️ **PostgreSQL** (data modeling, indexation, query optimization)
 - 📦 **Containerized deployment** (Docker, self-hosting)
 - ⚡️ **Fun fact** I've created some boardgames (only two of them are actually playable AND enjoyable).
 
 <h3 align="left">Connect with me:</h3>
-<h4 align="left">
+<h3 align="left">
 <a href="https://www.linkedin.com/in/lo%C3%AFs-kouninef-b1651122a/" target="blank">🤝 LinkedIn</a><br/>
 <a href="mailto:loiskouninef@gmail.com" target="blank">✉️ Email</a>
-</h4>
+</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loiskouninef&show_icons=true&locale=en&layout=compact" alt="loiskouninef" /></p>
