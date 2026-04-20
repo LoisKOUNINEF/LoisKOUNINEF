@@ -8,6 +8,13 @@
 - 📦 **Containerized deployment** (Docker, self-hosting)
 - ⚡️ **Fun fact** I've created some boardgames (only two of them are actually playable AND enjoyable).
 
+<h3>What I focus on</h3>
+
+- Systems that are easy to reason about
+- Clear data flow over implicit magic
+- Operability (deployment, security basics, monitoring)
+- Clean code principles
+
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">
 <a href="https://www.linkedin.com/in/lo%C3%AFs-kouninef-b1651122a/" target="blank">🤝 LinkedIn</a><br/>
