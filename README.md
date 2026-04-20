@@ -1,8 +1,7 @@
 <h1 align="center">Loïs Kouninef, Fullstack Web Developer</h1>
 
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=loiskouninef&label=Profile%20views&color=0e75b6&style=flat" alt="loiskouninef" /> </h3>
+<h3>I build full-stack applications with explicit logic, controlled complexity, and infrastructure I run myself.</h3>
 
-I build full-stack applications with explicit logic, controlled complexity, and infrastructure I run myself.
 - 🪶 **Mini-framework frontend** (no runtime dependencies, explicit event-driven reactivity)
 - ⚙️ **Backend services in Node.js / Go**
 - 🗄️ **PostgreSQL** (data modeling, indexation, query optimization)
