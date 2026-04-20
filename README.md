@@ -14,4 +14,4 @@
 - Operability (deployment, security basics, monitoring)
 - Clean code principles
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loiskouninef&show_icons=true&locale=en&layout=compact" alt="loiskouninef" /></p>
+<br/><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loiskouninef&show_icons=true&locale=en&layout=compact" alt="loiskouninef" /></p>
