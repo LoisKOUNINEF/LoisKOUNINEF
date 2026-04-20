@@ -6,9 +6,8 @@
 - ⚙️ **Backend services** in Node.js / Go
 - 🗄️ **PostgreSQL** (data modeling, indexation, query optimization)
 - 📦 **Containerized deployment** (Docker, self-hosting)
-- ⚡️ **Fun fact** I've created some boardgames (only two of them are actually playable AND enjoyable).
 
-<h3>What I focus on</h3>
+<h3>What I focus on:</h3>
 
 - Systems that are easy to reason about
 - Clear data flow over implicit magic
