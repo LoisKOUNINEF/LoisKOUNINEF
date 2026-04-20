@@ -11,7 +11,7 @@ I build full-stack applications with explicit logic, controlled complexity, and 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lo%C3%AFs-kouninef-b1651122a/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="loïs kouninef" height="30" width="40" />LinkedIn</a><br/>
+<a href="https://www.linkedin.com/in/lo%C3%AFs-kouninef-b1651122a/" target="blank">🤝 LinkedIn</a><br/>
 <a href="mailto:loiskouninef@gmail.com" target="blank">✉️ Email</a>
 </p>
 
