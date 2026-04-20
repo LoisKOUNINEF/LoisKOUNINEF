@@ -13,6 +13,6 @@
 <a href="https://www.linkedin.com/in/lo%C3%AFs-kouninef-b1651122a/" target="blank">🤝 LinkedIn</a><br/>
 <a href="mailto:loiskouninef@gmail.com" target="blank">✉️ Email</a><br/>
 <a href="https://lois-kouninef.eu/" target="blank">💻 Portfolio</a><br/>
-</h3><br/><br/>
+</h3><br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loiskouninef&show_icons=true&locale=en&layout=compact" alt="loiskouninef" /></p>
