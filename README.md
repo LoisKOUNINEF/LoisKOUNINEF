@@ -10,9 +10,9 @@ I build full-stack applications with explicit logic, controlled complexity, and 
 - ⚡️ **Fun fact** I've created some boardgames (only two of them are actually playable AND enjoyable).
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="font-size:1.3rem">
+<h4 align="left">
 <a href="https://www.linkedin.com/in/lo%C3%AFs-kouninef-b1651122a/" target="blank">🤝 LinkedIn</a><br/>
 <a href="mailto:loiskouninef@gmail.com" target="blank">✉️ Email</a>
-</p>
+</h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loiskouninef&show_icons=true&locale=en&layout=compact" alt="loiskouninef" /></p>
