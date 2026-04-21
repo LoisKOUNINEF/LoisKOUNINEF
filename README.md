@@ -1,4 +1,4 @@
-<h1 align="center">Loïs Kouninef, Fullstack Web Developer</h1>
+<h1 align="center">Loïs, Fullstack Web Developer</h1>
 
 <br/><h3>I build full-stack applications with explicit logic, controlled complexity, and infrastructure I run myself.</h3>
 
