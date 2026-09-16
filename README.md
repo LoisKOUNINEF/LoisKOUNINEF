@@ -2,7 +2,7 @@
 
 <br/><h3>I build full-stack applications with explicit logic, controlled complexity, and infrastructure I run myself.</h3>
 
-- 🪶 **Personal mini-framework frontend** (no runtime dependencies, explicit event-driven reactivity)
+- 🪶 **[Mini-framework frontend](https://nutin.org/)** `Framework structure. Vanilla freedom.`
 - ⚙️ **Backend services** in Node.js / Go
 - 🗄️ **PostgreSQL** (data modeling, indexation, query optimization)
 - 📦 **Containerized deployment** (Docker, self-hosting)
@@ -11,7 +11,13 @@
 
 - Systems that are easy to reason about
 - Clear data flow over implicit magic
-- Operability (deployment, security basics, monitoring)
 - Clean code principles
+- Documentation and testing
+- Operability (deployment, security basics, monitoring)
 
-<br/><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loiskouninef&show_icons=true&locale=en&layout=compact" alt="loiskouninef" /></p>
+<h3>Things I wrote:</h3>
+
+- [How much frontend framework do you actually need?](https://nutin.org/en/articles/how-much-frontend-framework-do-you-actually-need)
+- [When does a Vanilla JavaScript applicaiton need structure?](https://nutin.org/en/articles/when-does-a-vanilla-javascript-application-need-structure)
+- [How to structure a small SPA](https://www.nutin.org/en/articles/how-to-structure-a-small-spa)
+- [Direct DOM manipulation vs. virtual DOM: what's the difference?](https://www.nutin.org/en/articles/direct-dom-manipulation-vs-virtual-dom-whats-the-difference)
