@@ -18,7 +18,7 @@
 
 <h3>Selected projects</h3>
 
-- [E-ticketing platform](https://lois-kouninef.eu/?project=paris-2024): A modular e-ticketing platform with Stripe payments, persistent carts, QR-code tickets, and role-based administration *`NestJS · PostgreSQL · Angular · Nx`*
+- [E-ticketing platform](https://lois-kouninef.eu/?project=paris-2024): A modular e-ticketing platform with Stripe payments, persistent carts, QR-code tickets, and role-based administration. *`NestJS · PostgreSQL · Angular · Nx`*
 - [Nutin](https://nutin.dev): A lightweight frontend framework focused on native web APIs, explicit logic, and controlled complexity.
 - [a11y-elements](https://nutin.dev/a11y-elements): A collection of accessible, customizable web components designed for usability and keyboard navigation.
 - [Notelet](https://github.com/LoisKOUNINEF/Notelet): A cross-browser extension combining notes and todos in a simple, lightweight workspace.
